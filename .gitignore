@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# explicitly specified
+ipynb/
+py_files/
+test_files/
+ML\ lab\ manual.pdf
+datasets/
+.vscode/
