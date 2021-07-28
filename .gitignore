@@ -133,5 +133,5 @@ ipynb/
 py_files/
 test_files/
 ML\ lab\ manual.pdf
-datasets/
+.datasets/
 .vscode/
